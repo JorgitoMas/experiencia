@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Experiencia</title>
+  </head>
+  <body>
+    <svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="45.130356mm"
+   height="18.672024mm"
+   viewBox="0 0 45.130356 18.672024"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="logo.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-80.714286"
+     inkscape:cy="-482.42857"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-1.3229167,-2.51875)">
+    <image
+       xlink:href="data:image/png;base64,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 "
+       width="45.130356"
+       height="18.672024"
+       id="image21"
+       x="1.3229167"
+       y="2.51875" />
+  </g>
+</svg>
+    <h1>Hoja de Vida</h1>
+      <h2>Nombres</h2>
+        <h3> <em>Jorge Ariel</em> </h3>
+      <h2>Apellido</h2>
+        <h3> <em>Mas</em> </h3>
+      <h2>Fecha de Nacimiento</h2>
+        <h3> <em>13/12/1986</em> </h3>
+      <h2>Lugar de Nacimiento</h2>
+        <h3> <em>Argentina</em> </h3>
+    <a href="../index.html">Pagina principal</a>
+
+  </body>
+</html>
