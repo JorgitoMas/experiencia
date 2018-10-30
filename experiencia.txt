@@ -2,6 +2,9 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
+    <meta name="wiewport" content="width=device-width user-escalable=no">
+    <meta name="autor" content="Jorge Mas">
+    <meta name="description" content="Experiencia">
     <title>Experiencia</title>
   </head>
   <body>
@@ -76,7 +79,19 @@
         <h3> <em>13/12/1986</em> </h3>
       <h2>Lugar de Nacimiento</h2>
         <h3> <em>Argentina</em> </h3>
-    <a href="../index.html">Pagina principal</a>
-
+    <a href="../index.html">Pagina principal</a> <a href="../educacion/educacion.html">Educación</a>
+      <h2>Experiencia</h2>
+        <h3>Habilidades e Intereses</h3>
+          <video controls poster="no se puede mostrar el video">
+            <source src="videos/video.mp4" type="video/mp4">
+            <source src="videos/video.ogg" type="video/ogg">
+            <source src="videos/video.webm" type="video/webm">
+            <source src="videos/video.wmv" type="video/wmv">
+            <source src="videos/video.mp4" type="video/mp4">
+          </video>
+        <h3>Hobbies y Tiempo Libre</h3>
+          <audio src="audios/audio.mp3" controls>
+          </audio>
   </body>
+  <footer>jorgemasariel@hotmail.com - (0261)155166648 - Molinero Tejeda 1904 Las Heras Mendoza Argentina</footer>
 </html>
